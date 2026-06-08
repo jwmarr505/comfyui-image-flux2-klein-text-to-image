@@ -21,3 +21,4 @@ docker build --build-arg HF_TOKEN=$HF_TOKEN --build-arg CIVITAI_API_KEY=$CIVITAI
 - `workflow.json` — the raw workflow, as you designed it in ComfyUI
 - `api-workflow.json` — converted to ComfyUI's `/prompt` API shape (use this for serverless)
 - `README.md` — this file
+- 
